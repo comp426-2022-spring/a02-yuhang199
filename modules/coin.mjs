@@ -42,9 +42,9 @@ function coinFlip() {
  */
 
 function coinFlips(flips) {
-  const flips = []
+  const result = []
   for (let i = 0; i < flips; ++i) {
-    flips[i] = coinFlip()
+    result[i] = coinFlip()
   }
   return result
 }
