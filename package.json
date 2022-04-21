@@ -10,5 +10,6 @@
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "author": "Yuhang Zhou",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "type": "module"
 }
